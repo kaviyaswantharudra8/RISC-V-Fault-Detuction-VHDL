@@ -1,3 +1,7 @@
+![VHDL](https://img.shields.io/badge/Language-VHDL-blue)
+![GHDL](https://img.shields.io/badge/Simulator-GHDL-orange)
+![EDA Playground](https://img.shields.io/badge/Simulation-EDA%20Playground-green)
+![RISC-V](https://img.shields.io/badge/Architecture-RISC--V-red)
 # Fault Detection and Injection in a Simplified RISC-V Processor
 
 A VHDL-based project that demonstrates fault injection and observation in a simplified RISC-V processor datapath.
